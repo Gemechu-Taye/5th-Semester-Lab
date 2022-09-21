@@ -36,7 +36,8 @@ article {
 }
 
 article > img {
-    
+    /* float: 20px; */
+    object-position: center;
 }
 article > h1 {
     padding-bottom: 100px;
